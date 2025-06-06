@@ -1,0 +1,14 @@
+{
+    "habilidades": [
+        {
+            "id": 1,
+            "titulo": "HTML",
+            "descricao": "HTML é uma linguagem de marcação utilizada na construção de páginas na Web."
+        },
+        {
+            "id": 2,
+            "titulo": "ex",
+            "descricao": "Exemplo2."
+        }
+    ]
+}
