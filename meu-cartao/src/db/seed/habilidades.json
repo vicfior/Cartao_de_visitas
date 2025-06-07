@@ -1,14 +1,24 @@
 {
     "habilidades": [
-        {
-            "id": 1,
-            "titulo": "HTML",
-            "descricao": "HTML é uma linguagem de marcação utilizada na construção de páginas na Web."
-        },
-        {
-            "id": 2,
-            "titulo": "ex",
-            "descricao": "Exemplo2."
-        }
+      {
+        "id": 1,
+        "titulo": "Performance de Rock 'n' Roll",
+        "descricao": "Capacidade de cativar qualquer público com performances eletrizantes de rock, incluindo movimentos de quadril e vocais no estilo do Rei."
+      },
+      {
+        "id": 2,
+        "titulo": "Mestre do Ukulele/Guitarra",
+        "descricao": "Toca ukulele (disfarçado de guitarra) com uma habilidade caoticamente impressionante, capaz de tocar clássicos como 'Suspicious Minds' e 'Hound Dog'."
+      },
+      {
+        "id": 3,
+        "titulo": "Charme Intergaláctico",
+        "descricao": "Uso de carisma e fofura alienígena para distrair inimigos, conseguir lanches e conquistar fãs, tudo isso enquanto veste um macacão branco brilhante."
+      },
+      {
+        "id": 4,
+        "titulo": "Destruição Rítmica",
+        "descricao": "Habilidade de causar o máximo de caos e destruição de forma perfeitamente sincronizada com o ritmo da música."
+      }
     ]
-}
+  }
